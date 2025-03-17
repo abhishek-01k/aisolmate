@@ -17,6 +17,10 @@ A powerful AI agent platform built with Sonic Agent Kit for investment research,
 - MEV-resistant execution with AI simulation to detect sandwich attacks
 - Natural language command interface for strategy creation and execution
 
+## Demo Video
+
+## Sonic Program IDs
+
 ## Technology Stack
 
 - **Frontend**: Next.js 13+, React, Tailwind CSS
